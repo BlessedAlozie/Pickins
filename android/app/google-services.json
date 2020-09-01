@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "743475823478",
+    "firebase_url": "https://pickin-c9b0b.firebaseio.com",
+    "project_id": "pickin-c9b0b",
+    "storage_bucket": "pickin-c9b0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743475823478:android:1236f83df4b7158695f057",
+        "android_client_info": {
+          "package_name": "com.pikin.pickins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743475823478-0dmln2uu9ohfgi2ltq69ue00u6nkgsbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_tHS5TGlBBBVDjWaGkeifUb7EW8SriKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743475823478-0dmln2uu9ohfgi2ltq69ue00u6nkgsbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
